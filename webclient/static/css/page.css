@@ -11,14 +11,6 @@
 	text-align: left;
 	width: 500px;
 }
-.section-icon {
-	background: url("/static/img/section-news.gif") no-repeat;
-	float: left;
-	height: 28px;
-	margin-top: 5px;
-	padding-right: 6px;
-	width: 28px;
-}
 .section-header h1 {
 	font-size: 18px;
 	margin-right: 20px;
