@@ -261,38 +261,14 @@ h5, .h5 {
 	margin: 0px 12px 0px 12px;
 	padding-top: 12px;
 }
-
-#footer {
-	background: url("/static/img/footer-bg.png") repeat-x;
-	height: 95px;
-	margin: 5px auto;
-	width: 940px;
-}
-#footer-left {
-	background: url("/static/img/footer-bg-left.png") no-repeat;
-	float: left;
-	height: 95px;
-	width: 15px;
-}
-#footer-right {
-	background: url("/static/img/footer-bg-right.png") no-repeat;
-	float: right;
-	height: 95px;
-	width: 15px;
-}
-#footer-banner {
-	float: left;
-	margin: 17px 0px 0px 5px;
-}
-#footer-logo {
-	line-height: 95px;
-	text-align: center;
-}
-
-#w3c-logo {
-	margin: 17px 0px 0px 5px;
-	padding: 17px 0px 0px 0px;
-	text-align: center;
+body > footer {
+	background-color: white;
+	margin: 12px auto 36px auto;
+	padding: 7px 7px 6px 7px;
+	overflow: hidden;
+	border-radius: 5px;
+	box-shadow: 0 0 3px 3px rgba(0, 0, 0, 0.11);
+	width: 916px;
 }
 
 #hr-clear {
